@@ -1,4 +1,4 @@
-## EX-1A Reverse a String
+# EX-1A Reverse a String
 
 
 ## DATE: 
@@ -35,7 +35,7 @@ To write a program to create a recursive function to reverse a string.
 
 ### Program:
 
-Program to implement Reverse a String
+
 ### Developed by: ABRIN NISHA A
 ### Register Number: 212222230005
 
